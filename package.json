@@ -1,21 +1,21 @@
 {
-  "name": "d3",
+  "name": "pagefetcher",
   "version": "1.0.0",
   "description": "",
-  "main": "client.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EvilDoll69/snake-client.git"
+    "url": "git+https://github.com/EvilDoll69/page-fetcher.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EvilDoll69/snake-client/issues"
+    "url": "https://github.com/EvilDoll69/page-fetcher/issues"
   },
-  "homepage": "https://github.com/EvilDoll69/snake-client#readme",
+  "homepage": "https://github.com/EvilDoll69/page-fetcher#readme",
   "dependencies": {
     "request": "^2.88.2"
   }
